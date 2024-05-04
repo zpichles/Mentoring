@@ -8,3 +8,4 @@ if (num1 > num2 && num1 > num3) { //compare num1, num2 and num3
 } else if (num3 > num1 && num3 > num2) { //compare num1, num2 and num3
     console.log(num3); //if num3 is largest, it will be displayed
 }
+//  Almost correct . Not handle the case where two or all three numbers are equal.  How do you figure out  this issue 
