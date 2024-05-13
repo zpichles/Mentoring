@@ -1,0 +1,5 @@
+SepName = input("Напишите строку-разделитель: ")
+FirstName = input("Напишите первую строку: ")
+SecondName = input("Напишите вторую строку: ")
+ThirdName = input("Напишите третью строку: ")
+print(FirstName, SecondName, ThirdName, sep = SepName)
