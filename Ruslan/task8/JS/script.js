@@ -7,7 +7,7 @@ if (a > b) { //condition, if b is less than a
 }
 console.log(x); //display value in console
 
-//  Bassicaly good , but you can improve it  try to make it like that 
+//  Basically good , but you can improve it,  try to make it like that
 // var a = 7;
 // var b = 5;
 // var x;
